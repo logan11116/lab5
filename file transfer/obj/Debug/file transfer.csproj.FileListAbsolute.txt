@@ -14,3 +14,5 @@ C:\Users\Dynice\Desktop\Licența\1. Program\V3\transfer v.2\file transfer\obj\De
 C:\Users\Dynice\Desktop\Licența\1. Program\V3\transfer v.2\file transfer\obj\Debug\Main.resources
 C:\Users\Dynice\Desktop\Licența\1. Program\V3\transfer v.2\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
 C:\Users\Dynice\Desktop\Licența\1. Program\V3\transfer v.2\file transfer\obj\Debug\file transfer.csproj.GenerateResource.Cache
+C:\Users\Roman-PC\OneDrive - Technical University of Moldova\simestru 2\PR\lab5\file transfer\obj\Debug\file transfer.exe
+C:\Users\Roman-PC\OneDrive - Technical University of Moldova\simestru 2\PR\lab5\file transfer\obj\Debug\file transfer.pdb
